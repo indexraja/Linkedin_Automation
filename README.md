@@ -13,3 +13,8 @@ Technologies used :-
 1.Python
 2 Selenium webDriver
 3.x-path
+
+Requirements:
+1. Download and install chrome webdriver
+2. Install python
+3. Install selenium (pip install selenium)
