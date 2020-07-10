@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 10 12:40:10 2020
-
-@author: Raja
-"""
 
 # -*- coding: utf-8 -*-
 """
